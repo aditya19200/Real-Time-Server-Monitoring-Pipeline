@@ -1,5 +1,4 @@
 # Real-Time-Server-Monitoring-Pipeline
-# 🧠 Team 103 – Real-Time Server Monitoring Pipeline 
 
 ## 📘 Overview
 This project implements a **real-time server performance monitoring pipeline** using the **Apache Kafka–Spark ecosystem**.  
